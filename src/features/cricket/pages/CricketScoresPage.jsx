@@ -290,7 +290,7 @@ const CricketScoresPage = () => {
       <CricketTabs />
 
       {/* Main layout: scores content + right sidebar space */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 py-6 ">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 py-6">
         <div className="flex gap-6">
 
           {/* Left: Scores content — narrowed to make room for right sidebar */}

@@ -17,8 +17,8 @@ export const appConfig = {
 
   // Navigation
   navItems: [
-    { label: 'Ipl-2026', path: '/cricket/ipl' },
     { label: 'Home', path: '/' },
+    { label: 'Ipl-2026', path: '/cricket/ipl' },
     { label: 'News', path: '/news' },
     { label: 'Blogs', path: '/blogs' },
   ],
@@ -35,7 +35,7 @@ export const appConfig = {
 
   // Cricket sub-tabs
   cricketTabs: [
-    //{ id: 'ipl', label: 'IPL 2026', path: '/cricket/ipl' },
+    { id: 'ipl', label: 'IPL 2026', path: '/cricket/ipl' },
   { id: 'scores', label: 'Scores', path: '/cricket' },
   { id: 'series', label: 'Series', path: '/cricket/series' },
   { id: 'fixtures', label: 'Fixtures', path: '/cricket/fixtures' },
