@@ -35,7 +35,7 @@ export const appConfig = {
 
   // Cricket sub-tabs
   cricketTabs: [
-  { id: 'ipl', label: 'IPL 2026', path: '/cricket/ipl' },
+  //{ id: 'ipl', label: 'IPL 2026', path: '/cricket/ipl' },
   { id: 'scores', label: 'Scores', path: '/cricket' },
   { id: 'series', label: 'Series', path: '/cricket/series' },
   { id: 'fixtures', label: 'Fixtures', path: '/cricket/fixtures' },
